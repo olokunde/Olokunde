@@ -21,6 +21,7 @@ My journey in computer science has sparked a deep passion for cybersecurity, mot
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [SIEM Lab](#siem-lab)      |
 | Network Traffic Monitoring and Attack Detection | [Network Lab](#network-lab) |
+| Linux File Permission Management              | [Linux Lab](#linux-lab) |
 | Vulnerability Scanning with OpenVAS           | [Vulnerability Lab](#vulnerability-scanning) |
 | Password Cracking with Hashcat                | [Password Lab](#password-cracking-lab) |
 | Linux File Permission Management              | [Linux Lab](#linux-lab)    |
