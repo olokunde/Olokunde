@@ -41,3 +41,41 @@ After saving the file, run these commands to push the changes to GitHub:
 git add README.md
 git commit -m "Added README with file permissions"
 git push origin main
+How to Check File Permissions
+
+To see file permissions, use the command:
+
+ls -la
+
+This shows a list of all files, including hidden files, along with their permissions.
+
+Example Output:
+
+-rw-r--r--  1 user group  1234 Jan 31 12:00 project_m.txt
+drwx------  2 user group  4096 Jan 31 12:00 drafts
+
+🔍 Understanding the 10-Character File Permission String
+
+Each file in Linux has a 10-character permission string like this:
+
+-rw-r--r--
+
+Position	Meaning	Example (-rw-r--r--)
+1st	File type (- = file, d = directory)	- (regular file)
+2-4	Owner permissions	rw- (read, write, no execute)
+5-7	Group permissions	r-- (read-only)
+8-10	Other (everyone else) permissions	r-- (read-only)
+👀 Hidden Files in Linux
+
+Hidden files start with a . (dot).
+To see them, use:
+
+ls -la
+
+📌 Example of a hidden file: .project_x.txt
+📌 Summary
+
+✅ We demonstrated how to check file permissions using ls -la
+✅ We explained the 10-character permission string
+✅ We learned how to change file permissions using chmod
+✅ We discussed hidden files and how to view them
