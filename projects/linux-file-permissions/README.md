@@ -75,7 +75,7 @@ ls -la
 📌 Example of a hidden file: .project_x.txt
 📌 Summary
 
-✅ We demonstrated how to check file permissions using ls -la
-✅ We explained the 10-character permission string
-✅ We learned how to change file permissions using chmod
-✅ We discussed hidden files and how to view them
+✅ I demonstrated how to check file permissions using ls -la
+✅ I explained the 10-character permission string
+✅ I learned how to change file permissions using chmod
+✅ I discussed hidden files and how to view them
