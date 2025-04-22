@@ -80,4 +80,7 @@ My journey in computer science has sparked a deep passion for cybersecurity, mot
 
 ---
 
+### 6. [Python File Update Algorithm](projects/python-file-update-algorithm.md)
+- Automated IP allow‑list updates using Python (read file, remove entries, write back).
 
+---
