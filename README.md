@@ -59,20 +59,30 @@ My journey in computer science has sparked a deep passion for cybersecurity, mot
 
 ## Projects
 
+---
+
 ### 1. SIEM Lab
 - Implemented a Security Information and Event Management (SIEM) tool to analyze logs.
 - Used tools like Splunk or Elastic to detect threats.
+
+---
 
 ### 2. Network Traffic Lab
 - Monitored and analyzed network traffic to identify suspicious activity.
 - Used Wireshark and Tcpdump for packet analysis.
 
+---
+
 ### 3. Vulnerability Scanning
 - Conducted vulnerability scans using OpenVAS to identify system weaknesses.
 - Generated and analyzed reports to recommend fixes.
 
+---
+
 ### 4. Password Cracking Lab
 - Used Hashcat and Hydra to crack hashed passwords for testing system security.
+
+---
 
 ### 5. Linux Lab
 - Managed and configured Linux file permissions to enhance system security.
