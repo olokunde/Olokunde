@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 ## About Me
-Hello! My name is **Olokunde Olaoluwa Olayinka**, and I am passionate about cybersecurity. My journey in computer science has led me to develop skills in penetration testing, vulnerability analysis, and security operations. 
+Hello! My name is **Olokunde Olaoluwa Olayinka**, and I am passionate about cybersecurity. My journey in computer science has led me to develop skills in penetration testing, vulnerability analysis, and security operations.
 
 I am eager to transition into the cybersecurity field and aim to work as a Tier 1 Analyst in a Security Operations Center (SOC). This portfolio showcases my skills, projects, and education in cybersecurity.
 
@@ -11,20 +11,24 @@ I am eager to transition into the cybersecurity field and aim to work as a Tier 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
+---
 
+## Objective
 My journey in computer science has sparked a deep passion for cybersecurity, motivating me to transition into this dynamic field. I aspire to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to securing systems and networks while continuously expanding my knowledge and expertise in information security.
+
+---
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [SIEM Lab](#siem-lab)      |
-| Network Traffic Monitoring and Attack Detection | [Network Lab](#network-lab) |
-| Linux File Permission Management              | [Linux Lab](#linux-lab) |
-| Vulnerability Scanning with OpenVAS           | [Vulnerability Lab](#vulnerability-scanning) |
-| Password Cracking with Hashcat                | [Password Lab](#password-cracking-lab) |
-| Linux File Permission Management              | [Linux Lab](#linux-lab)    |
+| SIEM Implementation and Log Analysis          | [SIEM Lab](#1-siem-lab)      |
+| Network Traffic Monitoring and Attack Detection | [Network Traffic Lab](#2-network-traffic-lab) |
+| Linux File Permission Management              | [Linux Lab](#5-linux-lab) |
+| Vulnerability Scanning with OpenVAS           | [Vulnerability Scanning](#3-vulnerability-scanning) |
+| Password Cracking with Hashcat                | [Password Cracking Lab](#4-password-cracking-lab) |
+
+---
 
 ## Tools
 
@@ -48,18 +52,20 @@ My journey in computer science has sparked a deep passion for cybersecurity, mot
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+---
+
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-
 ---
+
+## Projects
 
 ### 1. SIEM Lab
 - Implemented a Security Information and Event Management (SIEM) tool to analyze logs.
