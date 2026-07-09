@@ -17,11 +17,6 @@ the best way to learn security is to build it.
 
 ---
 
-## Objective
-My journey in computer science has sparked a deep passion for cybersecurity, motivating me to transition into this dynamic field. I aspire to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to securing systems and networks while continuously expanding my knowledge and expertise in information security.
-
----
-
 ## Skills
 
 | Skill                                         | Associated Project         |
