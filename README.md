@@ -1,9 +1,15 @@
 # Cybersecurity Portfolio
 
 ## About Me
-Hello! My name is **Olokunde Olaoluwa Olayinka**, and I am passionate about cybersecurity. My journey in computer science has led me to develop skills in penetration testing, vulnerability analysis, and security operations.
 
-I am eager to transition into the cybersecurity field and aim to work as a Tier 1 Analyst in a Security Operations Center (SOC). This portfolio showcases my skills, projects, and education in cybersecurity.
+I'm **Olaoluwa Olokunde**, a security-minded IT professional who automates with Python.
+
+Currently: Systems Auditor (access reviews, ISO 27001-aligned controls) and freelance
+Email/DNS & Google Workspace specialist. I build practical security tooling — threat
+intelligence platforms, SIEM log monitors, and incident response trackers — because
+the best way to learn security is to build it.
+
+🎯 Working toward: Security Engineering — CompTIA Security+ in progress
 
 <a href="https://www.linkedin.com/in/olaoluwa-olokunde-4779672bb/?trk=opento_sprofile_goalscard">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
