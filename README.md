@@ -56,12 +56,14 @@ My journey in computer science has sparked a deep passion for cybersecurity, mot
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Workspace_Administrator-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Programming_in_Python_(Meta)-0668E1?&style=for-the-badge&logo=Meta&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_AI_Essentials-EA4335?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Technical_Support_Fundamentals-FBBC05?&style=for-the-badge&logo=Google&logoColor=black" />
 </div>
+
+**In progress:** CompTIA Security+ · Meta Back-End Developer Professional Certificate
 
 ---
 
